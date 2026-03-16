@@ -1,0 +1,5 @@
+
+moviepy
+gtts
+python-docx
+pillow
