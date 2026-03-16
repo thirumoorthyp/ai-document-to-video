@@ -30,13 +30,6 @@ output/
 ```bash
 pip install -r requirements.txt
 ```
-
-## Run
-
-```bash
-python src/main.py samples/sample.txt
-```
-
 Output video will appear in `/output`.
 
 ## Optimization
